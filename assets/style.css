@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aquamarine
+
+}
+
+button {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.quiz-container button {
+    justify-content: center;
+    display: flex block;
+    margin: 10px;
+    
+}
